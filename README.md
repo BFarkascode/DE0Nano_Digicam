@@ -1,5 +1,7 @@
 # DE0Nano_Digicam
-A digital camera programmed into a DE0Nano.
+An OV7670 digital camera handler programmed into a DE0Nano.
+
+Driving is done with an Adalogger.
 
 It currently lacks all explanation and is shared only for those who want to take a look into a project like this.
 
